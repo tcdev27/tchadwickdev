@@ -10,7 +10,6 @@ export default function App() {
         src="/img/mechanic.png"
         alt="Coming soon"
       />
-      <p>Let's play a game</p>
     </div>
   );
 }

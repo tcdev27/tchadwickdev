@@ -1,20 +1,15 @@
 {
-  "name": "react",
+  "name": "develop",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.3"
   },
-  "devDependencies": {
-    "typescript": "3.8.3"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
